@@ -17,6 +17,10 @@ Simple.
 
 ## Code details: -
 
-MAML: Model-Agnostic Meta Learning (standard)
-protoMAML: Prototypical Networks - based MAML. 
+MAML: Model-Agnostic Meta Learning (standard).\
+protoMAML: Prototypical Networks - based MAML. \
 OptNet: Solves a QP model, and estimating the Gaussian RBF matrix via Random Fourier Features, massively reducing time and compute.
+
+## Results: -
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/a8da8e79-9090-49d9-91e3-2ce45c49125b" />
+
